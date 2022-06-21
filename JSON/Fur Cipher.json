@@ -1,0 +1,16 @@
+{
+  "Author": "MageMage",
+  "Compatibility": "Compatible",
+  "DefuserDifficulty": "Easy",
+  "Description": "Decode a word encrypted in a 3 step process using different ciphers. Tags: cipher, 3-screens, left, right, keyboard, submit, blue, fur",
+  "ExpertDifficulty": Hard",
+  "ModuleID": "furCipher",
+  "Name": "Fur Cipher",
+  "Origin": "Mods",
+  "Published": "2022-06-21",
+  "SortKey": "FURCIPHER",
+  "SourceUrl": "N/A",
+  "SteamID": "N/A",
+  "Symbol": "Fuci",
+  "Type": "Regular"
+}

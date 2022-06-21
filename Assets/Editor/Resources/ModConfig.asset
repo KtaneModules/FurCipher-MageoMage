@@ -11,10 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: templateModule
-  title: Template Module
+  id: furCipher
+  title: Fur Cipher
   author: MageMage81
   description: 
-  version: 0.0.1
+  version: 1.0.2
   outputFolder: build
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: 174264568220891499acfff0412a7d63, type: 3}
