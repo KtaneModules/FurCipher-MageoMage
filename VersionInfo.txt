@@ -1,11 +1,19 @@
-Version: 0.0.1
+Version: 1.0.3
 
-Id: templateModule
-Name: Template Module
+Id: furCipher
+Name: Fur Cipher
 Creator: MageMage81
-Attributions: -
+Attributions: Timwi, Sean Obach (base Ciphers)
 
 Version Changelog:
+
+1.0.3:
+- renaming one of the ciphers
+- recolor
+- changed submit button text
+
+1.0.0:
+- general functionality
 
 0.0.1:
 - general template for all the modules

@@ -106,8 +106,8 @@ public class furCipherScript : MonoBehaviour
             }
             Log("encrypted word: {0}", encrypted);
         
-            //Step 2 Cheese Grater Cipher
-            Log("Cheese Grater Cipher");
+            //Step 2 Pizza Slice Cipher                                                                                                                                                               Cheese Grater Cipher
+            Log("Pizza Slice Cipher");
             topLeft = Bomb.GetSerialNumberNumbers().Last() % 2 == 0; //now topLeft signals row lengths 7676; false -> 6767
             string A1 = getKey(kw1, baseAlphabet, (Bomb.GetIndicators().Count() + Bomb.GetPortPlateCount()) > 4);
             Log("Alphabet: {0}", A1);
@@ -184,8 +184,8 @@ public class furCipherScript : MonoBehaviour
         Log("generated key 2: {0}", key2);
         pages[0][2] = key2;
 
-        //Step 3 Cheese Grater Cipher
-        Log("Cheese Grater Cipher");
+        //Step 3 Pizza Slice Cipher                                                                                                                                                               Cheese Grater Cipher
+            Log("Pizza Slice Cipher");
             bool topLeft = Bomb.GetSerialNumberNumbers().Last() % 2 == 0; //topLeft signals row lengths 7676; false -> 6767
             string A1 = getKey(kw1, baseAlphabet, (Bomb.GetIndicators().Count() + Bomb.GetPortPlateCount()) > 4);
             Log("Alphabet: {0}", A1);
