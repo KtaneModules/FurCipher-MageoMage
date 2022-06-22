@@ -1,4 +1,4 @@
-Version: 1.0.3
+Version: 1.1.0
 
 Id: furCipher
 Name: Fur Cipher
@@ -6,6 +6,9 @@ Creator: MageMage81
 Attributions: Timwi, Sean Obach (base Ciphers)
 
 Version Changelog:
+
+1.1.0:
+- Code had a typo for Monosodium Glutamate Cipher and last letter of KW1 being before N
 
 1.0.3:
 - renaming one of the ciphers

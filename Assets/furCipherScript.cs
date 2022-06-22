@@ -84,7 +84,7 @@ public class furCipherScript : MonoBehaviour
             Log("A3: {0}", A3);
             bool topLeft = kw1[0]%2 == 0; //true means top starts with letter; otherwise top starts with space
             int[] numbers;
-            numbers = kw1[5] < 'N' ? new int[]{9,2,6,6,2,1} : new int[]{6,2,1,9,2,6};
+            numbers = kw1[5] < 'N' ? new int[]{9,2,6,6,1,2} : new int[]{6,2,1,9,2,6};
             string encrypted = "";
             for(int i = 0; i < 6; i++){
                 string logsteps = answer[i] + "";
@@ -252,7 +252,7 @@ public class furCipherScript : MonoBehaviour
             Log("A3: {0}", A3);
             topLeft = kw1[0]%2 == 0; //true means top starts with letter; otherwise top starts with space
             int[] numbers;
-            numbers = kw1[5] < 'N' ? new int[]{9,2,6,6,2,1} : new int[]{6,2,1,9,2,6};
+            numbers = kw1[5] < 'N' ? new int[]{9,2,6,6,1,2} : new int[]{6,2,1,9,2,6};
             string decrypted = encrypted;
             encrypted = "";
 
